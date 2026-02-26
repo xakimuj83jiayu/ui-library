@@ -1,4 +1,4 @@
 name = 'ui-library'
 main = 'worker.js'
-compatibility_date = '2026-02-25'
+compatibility_date = '2026-02-26'
 workers_dev = true
